@@ -1,0 +1,38 @@
+{
+    "Carro": {
+        "nome": "Carro",
+        "categoria": "Automotivo"
+    },
+    "Moto": {
+        "nome": "Moto",
+        "categoria": "Automotivo"
+    },
+    "Caminhao": {
+        "nome": "Caminhão",
+        "categoria": "Automotivo"
+    },
+    "Arroz": {
+        "nome": "Arroz",
+        "categoria": "Alimento"
+    },
+    "Feijao": {
+        "nome": "Feijão",
+        "categoria": "Alimento"
+    },
+    "Carne": {
+        "nome": "Carne",
+        "categoria": "Alimento"
+    },
+    "Camiseta": {
+        "nome": "Camiseta",
+        "categoria": "Roupa"
+    },
+    "Calca": {
+        "nome": "Calça",
+        "categoria": "Roupa"
+    },
+    "Tenis": {
+        "nome": "Tênis",
+        "categoria": "Roupa"
+    }
+}

@@ -1,0 +1,69 @@
+
+.headerMenu {
+    gap: 20px;
+    display: flex;
+    padding: 16px;
+    color: white;
+    align-items: normal;
+    flex-direction: row;
+    background-color: #6596DF;
+    justify-content: space-between;
+
+    .item {
+        cursor: pointer;
+
+        &:not(.title) {
+            &:hover {
+                color: rgb(229, 229, 229);
+            }
+        }
+
+        &.title {
+            font-weight: bold;
+        }
+    }
+}
+
+.optionsContainer {
+    display: flex;
+    padding-top: 20px;
+    align-items: center;
+    flex-direction: row;
+    padding-bottom: 20px;
+    justify-content: center;
+
+    .options {
+        width: 80%;
+        gap: 10px;
+        display: flex;
+        align-items: normal;
+        flex-direction: row;
+        justify-content: space-between;
+
+        .selectContainer {
+            gap: 10px;
+            display: flex;
+            align-items: center;
+            flex-direction: row;
+            justify-content: initial;
+
+            .select {
+                padding: 3px;
+                border-radius: 6px;
+            }
+        }
+    }
+}
+
+.titleContainer {
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+
+    .salesTitle {
+        font-weight: bolder;
+        font-size: large;
+    }
+}

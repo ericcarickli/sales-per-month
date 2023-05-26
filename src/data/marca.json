@@ -1,0 +1,342 @@
+{
+    "Volkswagen": {
+        "nome":"Volkswagen",
+        "categoria": "Automotivo",
+        "produto": "Carro",
+        "sales": {
+            "jan": 5,
+            "feb": 11,
+            "mar": 8,
+            "apr": 13,
+            "may": 13
+        }
+    },
+    "Hyundai": {
+        "nome":"Hyundai",
+        "categoria": "Automotivo",
+        "produto": "Carro",
+        "sales": {
+            "jan": 20,
+            "feb": 10,
+            "mar": 12,
+            "apr": 8,
+            "may": 15
+        }
+    },
+    "Chevrolet": {
+        "nome":"Chevrolet",
+        "categoria": "Automotivo",
+        "produto": "Carro",
+        "sales": {
+            "jan": 10,
+            "feb": 7,
+            "mar": 8,
+            "apr": 9,
+            "may": 12
+        }
+    },
+
+    "Honda": {
+        "nome":"Honda",
+        "categoria": "Automotivo",
+        "produto": "Moto",
+        "sales": {
+            "jan": 19,
+            "feb": 17,
+            "mar": 15,
+            "apr": 18,
+            "may": 20
+        }
+    },
+    "Harley": {
+        "nome":"Harley",
+        "categoria": "Automotivo",
+        "produto": "Moto",
+        "sales": {
+            "jan": 8,
+            "feb": 9,
+            "mar": 10,
+            "apr": 11,
+            "may": 12
+        }
+    },
+    "Kawasaki": {
+        "nome":"Kawasaki",
+        "categoria": "Automotivo",
+        "produto": "Moto",
+        "sales": {
+            "jan": 20,
+            "feb": 19,
+            "mar": 18,
+            "apr": 16,
+            "may": 14
+        }
+    },
+
+
+    "Mercedes": {
+        "nome":"Mercedes",
+        "categoria": "Automotivo",
+        "produto": "Caminhão",
+        "sales": {
+            "jan": 5,
+            "feb": 11,
+            "mar": 8,
+            "apr": 11,
+            "may": 6
+        }
+    },
+    "Scania": {
+        "nome":"Scania",
+        "categoria": "Automotivo",
+        "produto": "Caminhão",
+        "sales": {
+            "jan": 12,
+            "feb": 17,
+            "mar": 10,
+            "apr": 20,
+            "may": 18
+        }
+    },
+    "Volvo": {
+        "nome":"Volvo",
+        "categoria": "Automotivo",
+        "produto": "Caminhão",
+        "sales": {
+            "jan": 20,
+            "feb": 10,
+            "mar": 5,
+            "apr": 15,
+            "may": 18
+        }
+    },
+
+
+    "Tropeiro": {
+        "nome":"Tropeiro",
+        "categoria": "Alimento",
+        "produto": "Arroz",
+        "sales": {
+            "jan": 10,
+            "feb": 11,
+            "mar": 12,
+            "apr": 13,
+            "may": 14
+        }
+    },
+    "Biju": {
+        "nome":"Biju",
+        "categoria": "Alimento",
+        "produto": "Arroz",
+        "sales": {
+            "jan": 13,
+            "feb": 12,
+            "mar": 11,
+            "apr": 10,
+            "may": 9
+        }
+    },
+    "Camil": {
+        "nome":"Camil",
+        "categoria": "Alimento",
+        "produto": "Arroz",
+        "sales": {
+            "jan": 6,
+            "feb": 9,
+            "mar": 10,
+            "apr": 14,
+            "may": 13
+        }
+    },
+
+    "Kicaldo": {
+        "nome":"Kicaldo",
+        "categoria": "Alimento",
+        "produto": "Feijão",
+        "sales": {
+            "jan": 17,
+            "feb": 11,
+            "mar": 15,
+            "apr": 14,
+            "may": 16
+        }
+    },
+    "Turquesa": {
+        "nome":"Turquesa",
+        "categoria": "Alimento",
+        "produto": "Feijão",
+        "sales": {
+            "jan": 19,
+            "feb": 6,
+            "mar": 12,
+            "apr": 5,
+            "may": 10
+        }
+    },
+    "Guacira": {
+        "nome":"Guacira",
+        "categoria": "Alimento",
+        "produto": "Feijão",
+        "sales": {
+            "jan": 20,
+            "feb": 17,
+            "mar": 18,
+            "apr": 16,
+            "may": 14
+        }
+    },
+
+
+    "Friboi": {
+        "nome":"Friboi",
+        "categoria": "Alimento",
+        "produto": "Carne",
+        "sales": {
+            "jan": 13,
+            "feb": 11,
+            "mar": 14,
+            "apr": 13,
+            "may": 17
+        }
+    },
+    "Sadia": {
+        "nome":"Sadia",
+        "categoria": "Alimento",
+        "produto": "Carne",
+        "sales": {
+            "jan": 13,
+            "feb": 16,
+            "mar": 19,
+            "apr": 7,
+            "may": 12
+        }
+    },
+    "Cvale": {
+        "nome":"Cvale",
+        "categoria": "Alimento",
+        "produto": "Carne",
+        "sales": {
+            "jan": 9,
+            "feb": 9,
+            "mar": 8,
+            "apr": 5,
+            "may": 20
+        }
+    },
+
+
+
+
+
+    "Adidas": {
+        "nome":"Adidas",
+        "categoria": "Roupa",
+        "produto": "Camiseta",
+        "sales": {
+            "jan": 17,
+            "feb": 13,
+            "mar": 5,
+            "apr": 8,
+            "may": 10
+        }
+    },
+    "Nike": {
+        "nome":"Nike",
+        "categoria": "Roupa",
+        "produto": "Camiseta",
+        "sales": {
+            "jan": 10,
+            "feb": 9,
+            "mar": 14,
+            "apr": 7,
+            "may": 6
+        }
+    },
+    "Polo": {
+        "nome":"Polo",
+        "categoria": "Roupa",
+        "produto": "Camiseta",
+        "sales": {
+            "jan": 13,
+            "feb": 18,
+            "mar": 19,
+            "apr": 20,
+            "may": 21
+        }
+    },
+
+    "Levis": {
+        "nome":"Levis",
+        "categoria": "Roupa",
+        "produto": "Calça",
+        "sales": {
+            "jan": 12,
+            "feb": 20,
+            "mar": 5,
+            "apr": 8,
+            "may": 7
+        }
+    },
+    "Balmain": {
+        "nome":"Balmain",
+        "categoria": "Roupa",
+        "produto": "Calça",
+        "sales": {
+            "jan": 13,
+            "feb": 17,
+            "mar": 15,
+            "apr": 14,
+            "may": 12
+        }
+    },
+    "Diesel": {
+        "nome":"Diesel",
+        "categoria": "Roupa",
+        "produto": "Calça",
+        "sales": {
+            "jan": 20,
+            "feb": 18,
+            "mar": 16,
+            "apr": 17,
+            "may": 15
+        }
+    },
+
+
+    "Puma": {
+        "nome":"Puma",
+        "categoria": "Roupa",
+        "produto": "Tênis",
+        "sales": {
+            "jan": 10,
+            "feb": 13,
+            "mar": 12,
+            "apr": 15,
+            "may": 16
+        }
+    },
+    "AllStar": {
+        "nome":"AllStar",
+        "categoria": "Roupa",
+        "produto": "Tênis",
+        "sales": {
+            "jan": 6,
+            "feb": 10,
+            "mar": 14,
+            "apr": 18,
+            "may": 12
+        }
+    },
+    "Vans": {
+        "nome":"Vans",
+        "categoria": "Roupa",
+        "produto": "Tênis",
+        "sales": {
+            "jan": 20,
+            "feb": 18,
+            "mar": 12,
+            "apr": 13,
+            "may": 5
+        }
+    }
+}
