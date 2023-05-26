@@ -1,15 +1,13 @@
-# Getting Started with Create React App
+# Sales Per Month
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Instalação
 
-## Sales Per Month
-
-Para instalar as dependências, rodar na raiz do projeto:
+Rodar na raiz do projeto:
 
 ### `npm i`
 
-Agora é só rodar:
+Após isso, rodar:
 
 ### `npm start`
 
-Abra [http://localhost:3000](http://localhost:3000) para ver no navegador.
+Agora abra [http://localhost:3000](http://localhost:3000) para ver a aplicação no navegador.
